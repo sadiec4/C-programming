@@ -1,0 +1,37 @@
+1. mkdr <directory_name> (make directory). Creates a folder
+
+2. cd <directory_name> (change directoy). changes current directory to the specified one
+
+3. code < file_name> creates a file and opens it in a text editor
+
+4. ls (list). Shos the context of the current directory
+
+5. pwd (print working directory). shows path of current directory
+
+6. clear - clears the terminal window
+
+7. gcc <file_name (c source code)> - compile the program
+
+8. ./executable_file> - runs program
+
+9. \ - escape
+
+10. \* - escape sequence
+
+11. \n - new line
+
+12. <stdio.h> 
+
+13. main(void). void represents no data, same as ()
+        doesnt provide with info
+
+14. printf("text"). print function, displays text
+
+15. Errors; if it does not compile it is likely a syntax error (easiest fix).
+        --> error while running program are called runtime errors
+        --> Logic errors allow programs to completion, but often produce incorrect results (most difficult to fix).
+
+16. printing numbers/integers: printf("%d,named variable integer"). %d is a conversion specifier
+
+17. 
+
